@@ -1,2 +1,2 @@
-# wake-stream-cipher
-WAKE is a stream cipher.
+# Cipher WAKE
+Implementation of a stream cipher WAKE and pair of basic-statistical tests.
